@@ -65,7 +65,8 @@ It is also one of the best ways to develop software by applying it and helping o
 
 ## Testing technique:
 
-We haven't finished the testing process yet, but as soon as we're done, I'll explain it to you right away, and that's what I'll do in Stage 3.2.
+1. Black box testing: The external website design and structure, button features and add to the cart button, as an example, have been tested
+2. White box testing: To ensure that there are no mistakes, we have tested an internal structure source code of the site.
 
 # Task Two
 
@@ -129,3 +130,67 @@ At first, my friend, I will tell you that the beginnings are always difficult, a
 ## I will provide now, a comprehensive explanation of the reasons for choosing the tools and techniques I chose to develop my application:
 
 First I'm going to inform my buddy that the beginnings are usually tough, as I'm puzzled between VS code and PyCharm, but I've chosen VS code at the end since it's a very lightweight IDE. Visual Studio Code depends heavily on extensions and other capabilities. Unless the developer loads the projects or other libraries. There is also an extension called a live server among these extensions. This addon is based on my existing server Live. This plugin allows me to download live features for dynamic websites Active server - Make my existing server live - it lets me refill my web extension with a live dynamic content capability. When it comes to operating systems, we chose Linux for several reasons, but the most important of which is familiarity with Linux because it is smooth and flexible. Another reason is the command line. Many Linux's were originally created to run on servers, allowing you to navigate the entire system using only the command line. It also describes commands that help you include working on GitHub using the terminal. This will be explained later. We chose GitHub because the project where the code is public is free and anyone can use it. I was able to access the repositories within the project and in my group because I learned free benefits from others on this platform. Whatever the system of teamwork, we changed them very easily, without coping with all of them, and without incurring financial costs.
+
+### (Stage 2: Project Implementation : Power Point presentation: 1)
+
+Power Point presentation in BTEC word and in BTEC file.
+
+### (Stage 2: Project Implementation : Develop our Application: 2)
+
+[GitHub](https://github.com/KEEP-N-TOUCH/KEEP-N-TOUCH) & [Keep-N-Touch](https://keep-n-touch.github.io/KEEP-N-TOUCH/)
+
+### (Stage 2: Project Implementation : Feedback: 3)
+
+### 1. Home Page Design:
+
+" Add a background on the home page and add animation. "
+
+### 2. Page/Function of the card:
+
+" We have solved this problem by creating the card page so that the user can see his purchases. "
+
+### 3. Header, font type and size must be the same on all pages:
+
+" We solved it by putting the same type, font size, and header on all pages. "
+
+### Improvements:
+
+" The card page and put the same type, font size and header on all pages "
+
+### Not improvements:
+
+" Slide show & video Background & Cart checkout "
+
+### (Stage 3: Project Evaluation : Assess the performance: 1)
+
+I find that the website is easy to use and that people appreciate the style and method we show the pets and options that we have made for the user after it, and that the menu is a bar that guides the user finishing anywhere he wishes.
+On the shopping cart page, the events that the user has booked for purchase are displayed but we do not have the checkout feature so we need to add this function to improve the quality of the site also we need to add the slide show on the home page to better display the events to the user. The rest of it works just as well as we expected.
+
+### (Stage 3: Project Evaluation : The key factors that can negatively impact in our project: 2)
+
+We changed the plan several times to solve this problem. We developed a limited server for each page and worked on it as well as the conflict. We solved this problem through the instructions that we learned in this course and applied them step by step. Finally, we encountered several problems in several areas while writing the code for the project and we solved it By hiring teachers and searching on Google.
+
+Testing: 
+
+1. Black box testing: The external website design and structure, button features and add to the cart button, as an example, have been tested
+2. White box testing: To ensure that there are no mistakes, we have tested an internal structure source code of the site.
+
+### (Stage 3: Project Evaluation : Strengths & Weaknesses: 3)
+
+Strengths:
+1. Local storage is used to store user information.
+2. It's stable and simple to utilize our website.
+3. The user may operate our cart from a table to ensure that the user is not confused.
+
+Weaknesses:
+1. There is no login page for us.
+2. Not ready cart checkout.
+3. A lot of animations we haven't used.
+
+## References:
+
+1. https://content.techgig.com/pycharm-vs-visual-studio-code-which-one-to-choose-for-python-development/articleshow/75388084.cms
+
+2. https://www.computerhope.com/jargon/w/windows.htm
+
+3. https://about.gitlab.com/what-is-gitlab/
